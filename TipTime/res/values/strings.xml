@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tip Time</string>
+    <string name="cost_of_service">本次消费</string>
+    <string name="service_question">服务怎么样？</string>
+    <string name="tip_options">Tip Options</string>
+    <string name="option_twenty_percent">非常棒(20%)</string>
+    <string name="option_eighteen_percent">好(18%)</string>
+    <string name="option_fifteen_percent">还算过得去(15%)</string>
+    <string name="round_up_switch">向上取整吗</string>
+    <string name="calculate_button">计算</string>
+    <string name="tip_result">计算结果: %s</string>
+</resources>
